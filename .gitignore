@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -143,6 +144,13 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+# virtual env
+ceia-amq1-tf/
+venv/
+env/
+.venv/
+ENV/
 
 # Spyder project settings
 .spyderproject
