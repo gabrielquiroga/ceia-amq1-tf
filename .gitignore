@@ -1,0 +1,36 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+*.pyo
+*.pyd
+
+# virtual env
+ceia-amq1-tf/
+venv/
+env/
+.venv/
+ENV/
+
+# paquetes
+*.egg-info/
+dist/
+build/
+
+# archivos locales
+*.log
+*.sqlite3
+*.db
+.env
+
+# IDE/editor
+.vscode/
+.idea/
+*.iml
+
+# SO
+.DS_Store
+Thumbs.db
